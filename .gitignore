@@ -1,0 +1,41 @@
+# IntelliJ IDEA
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# Maven
+target/
+
+# Build Directories
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+# NetBeans
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# VS Code
+.vscode/
+
+# Spring Tools Suite
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+# Logs
+*.log
+
+# H2 Database Files
+*.db
+
+# IntelliJ Gradle
+.gradle/
