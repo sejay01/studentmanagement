@@ -37,5 +37,9 @@ build/
 # H2 Database Files
 *.db
 
-# IntelliJ Gradle
+# Gradle
 .gradle/
+
+# Ignore any other system files
+.DS_Store
+Thumbs.db
